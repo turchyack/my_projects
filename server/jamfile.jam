@@ -1,0 +1,14 @@
+project server
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe server : main.cpp ;
+
+#run server
+#  :
+#  :
+#  :
+#  : run server
+#  ;
+
+unit-test run server : server ;

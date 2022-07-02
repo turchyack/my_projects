@@ -1,0 +1,10 @@
+project testcore
+	: requirements
+		<dependency>jamfile.jam
+	;
+lib testcore 
+	: [ glob *.cpp ] 
+	: <include>include 
+	: 
+	: <include>include
+	;

@@ -1,0 +1,5 @@
+project strings
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe strings : [ glob *.cpp ] ;

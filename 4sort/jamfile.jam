@@ -1,0 +1,14 @@
+project 4sort
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe 4sort : main.cpp ;
+
+#run 4sort
+#  :
+#  :
+#  :
+#  : run-4sort
+#  ;
+
+unit-test run-4sort : 4sort ;

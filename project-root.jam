@@ -1,0 +1,18 @@
+#сигнатура вызова правил
+#rule rule-name (
+#     main-target-name :
+#     sources + :
+#     requirements * :
+#    default-build * :
+#     usage-requirements * )
+
+
+import testing ;
+
+project testfile1
+	: build-dir bin
+	: requirements
+          <dependency>project-root.jam
+	;
+
+use-project /cpp-study/libs/testcore : libs/testcore ;

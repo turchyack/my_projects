@@ -1,0 +1,1488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inc",
+				"inc"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"si",
+				"SIZE"
+			],
+			[
+				"ct",
+				"ctime"
+			],
+			[
+				"s",
+				"SIZE"
+			],
+			[
+				"cstd",
+				"cstddef"
+			],
+			[
+				"SI",
+				"SIZE"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"a",
+				"argv"
+			],
+			[
+				"cs",
+				"cstdio"
+			],
+			[
+				"stdio",
+				"cstdio"
+			],
+			[
+				"S",
+				"Structure3"
+			],
+			[
+				"St",
+				"Structure3"
+			],
+			[
+				"sr",
+				"Structure1"
+			],
+			[
+				"stu",
+				"struct"
+			],
+			[
+				"stru",
+				"struct"
+			],
+			[
+				"st",
+				"struct"
+			],
+			[
+				"test_f",
+				"test_funcs"
+			],
+			[
+				"re",
+				"ReturnCode"
+			],
+			[
+				"te",
+				"test_stat"
+			],
+			[
+				"tot",
+				"total"
+			],
+			[
+				"fa",
+				"Fail"
+			],
+			[
+				"ru",
+				"run_test"
+			],
+			[
+				"u",
+				"unsigned"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "newserv/main.cpp",
+			"settings":
+			{
+				"buffer_size": 230,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJwAAAAAAAAAnAAAAAAAAAAeAgAAbnQgYVsxMDBdOwogIGludCogYWRyID0gJmFbMF07CiAgc2l6ZV90IFNJWkUgPSBzaXplb2YoYSkvc2l6ZW9mKGFbMV0pOwoKICBwcmludGYoIlxu0YDQsNC30LzQtdGAINC80LDRgdGB0LjQstCwID0gJWx1XG4iLCBTSVpFKTsKCiAgZm9yIChzaXplX3QgaSA9IDA7IGkgPCBTSVpFOyArK2kpIHsKICAgIGFbaV0gPSByYW5kKCkgJSAxMDAwOwoKICAgIH0KCiAgcHJpbnRmKCItLS0tLS0tLS3QndC1INGB0L7RgNGC0LjRgNC+0LLQsNC90L3Ri9C5INC80LDRgdGB0LjQsi0tLS0tLS0tLS1cbiIpOwoKCiAgZm9yIChzaXplX3QgaSA9IDA7IGkgPCBTSVpFOyArK2kpewogICAgcHJpbnRmKCLihJYlbHU6JWlcbiIsaSwgYVtpXSk7CiAgICB9CgogIHFzb3J0UmVjdXJzaXZlKGFkcixTSVpFKTsKCgogIHByaW50ZigiLS0tLS0tLS0t0KHQvtGA0YLQuNGA0L7QstCw0L3QvdGL0Lkg0LzQsNGB0YHQuNCyLS0tLS0tLS0tLVxuIik7CgoKICBmb3IgKHNpemVfdCBpID0gMDsgaSA8IFNJWkU7ICsraSl7CgogICAgcHJpbnRmKCLihJYlbHUgPSAlaVxuIixpLCBhW2ldKTs",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACcAAAAAAAAAIECAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJsAAAAAAAAAmwAAAAAAAAAIAAAAaQoKICAgIH2ZAAAAAAAAAJkAAAAAAAAAAgAAACAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACbAAAAAAAAAKMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n\n"
+					},
+					"BAAAAJkAAAAAAAAAmgAAAAAAAAAAAAAAmgAAAAAAAACbAAAAAAAAAAAAAACbAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAnQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACZAAAAAAAAAJkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAABwAAAAI2luY2x1ZGUgPGNzdGRkZWY+CiNpbmNsdWRlIDxjc3RkaW8+CiNpbmNsdWRlIDxpb3N0cmVhbT4KI2luY2x1ZGUgPGN0aW1lPgojaW5jbHVkZSA8Y3N0ZGxpYj4KI2luY2x1ZGUgInFzb3J0LmgiCg",
+					"AQAAAAAAAAABAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\\"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					2,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAXA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					3,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAaAAAACgoKLy91c2luZyBuYW1lc3BhY2Ugc3RkOwo",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "#IN"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "C"
+					},
+					"AQAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert_completion",
+					{
+						"completion": "include",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "include"
+					},
+					"AgAAAAEAAAAAAAAAAQAAAAAAAAADAAAASU5DAQAAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAgAAAAAAAAACQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert_snippet",
+					{
+						"contents": "<$0>"
+					},
+					"AQAAAAkAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert_completion",
+					{
+						"completion": "iostream",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "iostream"
+					},
+					"AgAAAAoAAAAAAAAACgAAAAAAAAABAAAAaQoAAAAAAAAAEgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "in"
+					},
+					"AgAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert_completion",
+					{
+						"completion": "int",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "int"
+					},
+					"AgAAABUAAAAAAAAAFQAAAAAAAAACAAAAaW4VAAAAAAAAABgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"left_delete",
+					null,
+					"AQAAABcAAAAAAAAAFwAAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert_completion",
+					{
+						"completion": "include",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "include"
+					},
+					"AgAAABUAAAAAAAAAFQAAAAAAAAACAAAAaW4VAAAAAAAAABwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABwAAAAAAAAAHQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert_snippet",
+					{
+						"contents": "<$0>"
+					},
+					"AQAAAB0AAAAAAAAAHwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert_completion",
+					{
+						"completion": "string",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "string"
+					},
+					"AgAAAB4AAAAAAAAAHgAAAAAAAAABAAAAcx4AAAAAAAAAJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"left_delete",
+					null,
+					"AQAAACcAAAAAAAAAJwAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "is"
+					},
+					"AgAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"left_delete",
+					null,
+					"AQAAACgAAAAAAAAAKAAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"left_delete",
+					null,
+					"AQAAACgAAAAAAAAAKAAAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "nc"
+					},
+					"AgAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert_completion",
+					{
+						"completion": "include <${1:.h}>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "inc"
+					},
+					"AgAAACcAAAAAAAAAJwAAAAAAAAADAAAAaW5jJwAAAAAAAAAzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"left_delete",
+					null,
+					"AQAAADAAAAAAAAAAMAAAAAAAAAACAAAALmg",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "re"
+					},
+					"AgAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert_completion",
+					{
+						"completion": "regex",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "regex"
+					},
+					"AgAAADAAAAAAAAAAMAAAAAAAAAACAAAAcmUwAAAAAAAAADUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADgAAAAAAAAAOQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"left_delete",
+					null,
+					"AQAAADgAAAAAAAAAOAAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "inc"
+					},
+					"AwAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert_completion",
+					{
+						"completion": "include \"${1:${TM_FILENAME/\\..+$/.h/}}\"",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "inc"
+					},
+					"AgAAADgAAAAAAAAAOAAAAAAAAAADAAAAaW5jOAAAAAAAAABIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEEAAAAAAAAAQQAAAAAAAAAGAAAAbWFpbi5o",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAEAAAAAAAAAAQAAAAAAAAAABAAAAIkAAAAAAAAAAQAAAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert_snippet",
+					{
+						"contents": "<$0>"
+					},
+					"AQAAAEAAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "map"
+					},
+					"AwAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEUAAAAAAAAARgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "us"
+					},
+					"AgAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert_completion",
+					{
+						"completion": "using",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "using"
+					},
+					"AgAAAEYAAAAAAAAARgAAAAAAAAACAAAAdXNGAAAAAAAAAEsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": " na"
+					},
+					"AwAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAABNAAAAAAAAAE4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert_completion",
+					{
+						"completion": "namespace",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "namespace"
+					},
+					"AgAAAEwAAAAAAAAATAAAAAAAAAACAAAAbmFMAAAAAAAAAFUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": " st"
+					},
+					"AwAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAABXAAAAAAAAAFgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert_completion",
+					{
+						"completion": "std",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "std"
+					},
+					"AgAAAFYAAAAAAAAAVgAAAAAAAAACAAAAc3RWAAAAAAAAAFkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAFkAAAAAAAAAWgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAFoAAAAAAAAAWwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAGoAAAAAAAAAawAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAagAAAAAAAABqAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					66,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGoAAAAAAAAAagAAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "pr"
+					},
+					"AgAAAGoAAAAAAAAAawAAAAAAAAAAAAAAawAAAAAAAABsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAagAAAAAAAABqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert_completion",
+					{
+						"completion": "printf",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "printf"
+					},
+					"AgAAAGoAAAAAAAAAagAAAAAAAAACAAAAcHJqAAAAAAAAAHAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAHAAAAAAAAAAcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "L"
+					},
+					"AQAAAHEAAAAAAAAAcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHEAAAAAAAAAcQAAAAAAAAABAAAATA",
+					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "}"
+					},
+					"AQAAAHEAAAAAAAAAcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHEAAAAAAAAAcQAAAAAAAAABAAAAfQ",
+					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAHEAAAAAAAAAcwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "gbg"
+					},
+					"AwAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHQAAAAAAAAAdAAAAAAAAAABAAAAZ3MAAAAAAAAAcwAAAAAAAAABAAAAYg",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": "11"
+					},
+					"AgAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAHcAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAACYAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					2,
+					"left_delete",
+					null,
+					"AgAAADoAAAAAAAAAOgAAAAAAAAABAAAALzkAAAAAAAAAOQAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					2,
+					"right_delete",
+					null,
+					"AgAAACYAAAAAAAAAJgAAAAAAAAABAAAALyYAAAAAAAAAJgAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": "/n"
+					},
+					"AgAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHYAAAAAAAAAdgAAAAAAAAABAAAAbnUAAAAAAAAAdQAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"insert",
+					{
+						"characters": "?"
+					},
+					"AQAAAHUAAAAAAAAAdgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHUAAAAAAAAAdQAAAAAAAAABAAAAPw",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": "|"
+					},
+					"AQAAAHUAAAAAAAAAdgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHUAAAAAAAAAdQAAAAAAAAABAAAAfA",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"insert",
+					{
+						"characters": "\\"
+					},
+					"AQAAAHUAAAAAAAAAdgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB5AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHcAAAAAAAAAdwAAAAAAAAACAAAAICB2AAAAAAAAAHYAAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAeQAAAAAAAAB5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"AQAAAHYAAAAAAAAAdwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"insert",
+					{
+						"characters": "123123"
+					},
+					"BgAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB5AAAAAAAAAAAAAAB5AAAAAAAAAHoAAAAAAAAAAAAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAH0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": "|"
+					},
+					"AQAAAH0AAAAAAAAAfgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					1,
+					"left_delete",
+					null,
+					"AQAAAH0AAAAAAAAAfQAAAAAAAAABAAAAfA",
+					"AQAAAAAAAAABAAAAfgAAAAAAAAB+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": "\\n"
+					},
+					"AgAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"insert",
+					{
+						"characters": "1111"
+					},
+					"BAAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAIIAAAAAAAAAgwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					139,
+					1,
+					"paste",
+					null,
+					"AQAAAIgAAAAAAAAApQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					141,
+					1,
+					"paste",
+					null,
+					"AQAAAKYAAAAAAAAAwwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					143,
+					1,
+					"paste",
+					null,
+					"AQAAAMQAAAAAAAAA4QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "newserv/jamfile.jam",
+			"settings":
+			{
+				"buffer_size": 138,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					11,
+					2,
+					"left_delete",
+					null,
+					"DAAAAJ0AAAAAAAAAnQAAAAAAAAAEAAAAZmFzdJYAAAAAAAAAlgAAAAAAAAAEAAAAZmFzdH0AAAAAAAAAfQAAAAAAAAAEAAAAZmFzdGAAAAAAAAAAYAAAAAAAAAAEAAAAZmFzdD4AAAAAAAAAPgAAAAAAAAAEAAAAZmFzdAgAAAAAAAAACAAAAAAAAAAEAAAAZmFzdIgAAAAAAAAAiAAAAAAAAAABAAAAIIUAAAAAAAAAhQAAAAAAAAABAAAALXAAAAAAAAAAcAAAAAAAAAABAAAALVcAAAAAAAAAVwAAAAAAAAABAAAAIDkAAAAAAAAAOQAAAAAAAAABAAAAIAcAAAAAAAAABwAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAAGAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/PgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/YAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/fQAAAAAAAACBAAAAAAAAAAAAAAAAAPC/lgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/nQAAAAAAAAChAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " ser"
+					},
+					"GAAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAgQAAAAAAAACCAAAAAAAAAAAAAABtAAAAAAAAAG4AAAAAAAAAAAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAIkAAAAAAAAAigAAAAAAAAAAAAAAhgAAAAAAAACHAAAAAAAAAAAAAABxAAAAAAAAAHIAAAAAAAAAAAAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAiwAAAAAAAACMAAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAAB5AAAAAAAAAHoAAAAAAAAAAAAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAGAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/OAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/VQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/bQAAAAAAAABtAAAAAAAAAAAAAAAAAPC/gQAAAAAAAACBAAAAAAAAAAAAAAAAAPC/gwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "v1"
+					},
+					"DAAAAJsAAAAAAAAAnAAAAAAAAAAAAAAAlQAAAAAAAACWAAAAAAAAAAAAAAB9AAAAAAAAAH4AAAAAAAAAAAAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAKEAAAAAAAAAogAAAAAAAAAAAAAAmgAAAAAAAACbAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAGAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/QAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/YQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/fQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/lQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/mwAAAAAAAACbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"left_delete",
+					null,
+					"BgAAAKYAAAAAAAAApgAAAAAAAAABAAAAMZ4AAAAAAAAAngAAAAAAAAABAAAAMYQAAAAAAAAAhAAAAAAAAAABAAAAMWYAAAAAAAAAZgAAAAAAAAABAAAAMUMAAAAAAAAAQwAAAAAAAAABAAAAMQwAAAAAAAAADAAAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAAGAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/RAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/ZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/hQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/nwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/pwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"BgAAAKEAAAAAAAAAogAAAAAAAAAAAAAAmgAAAAAAAACbAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAGAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/QgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/ZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/gQAAAAAAAACBAAAAAAAAAAAAAAAAAPC/mgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/oQAAAAAAAAChAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"left_delete",
+					null,
+					"BgAAAKYAAAAAAAAApgAAAAAAAAABAAAAbp4AAAAAAAAAngAAAAAAAAABAAAAboQAAAAAAAAAhAAAAAAAAAABAAAAbmYAAAAAAAAAZgAAAAAAAAABAAAAbkMAAAAAAAAAQwAAAAAAAAABAAAAbgwAAAAAAAAADAAAAAAAAAABAAAAbg",
+					"AQAAAAAAAAAGAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/RAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/ZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/hQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/nwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/pwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"BgAAAJ0AAAAAAAAAngAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAAB9AAAAAAAAAH4AAAAAAAAAAAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAGAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/PgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/YAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/fQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/lgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/nQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					2,
+					"left_delete",
+					null,
+					"AgAAAFEAAAAAAAAAUQAAAAAAAAAHAAAAc29ydC5jcFAAAAAAAAAAUAAAAAAAAAABAAAAcQ",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					2,
+					"right_delete",
+					null,
+					"AgAAAFAAAAAAAAAAUAAAAAAAAAABAAAAcFAAAAAAAAAAUAAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "ew"
+					},
+					"DAAAAJkAAAAAAAAAmgAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAAB7AAAAAAAAAHwAAAAAAAAAAAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAGAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/QAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/WQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/dwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/kQAAAAAAAACRAAAAAAAAAAAAAAAAAPC/mQAAAAAAAACZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHsAAAAAAAAAewAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAHsAAAAAAAAAfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewAAAAAAAAB7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"cut",
+					null,
+					"AQAAAIoAAAAAAAAAigAAAAAAAAAiAAAAdW5pdC10ZXN0IHJ1biBuZXdzZXJ2IDogbmV3c2VydiA7Cg",
+					"AQAAAAAAAAABAAAAigAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Enumeration"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"hide menu",
+			"hyde menu"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/turchyack/project/cpp-study",
+		"/home/turchyack/project/cpp-study/fast",
+		"/home/turchyack/project/cpp-study/newserv"
+	],
+	"file_history":
+	[
+		"/home/turchyack/project/cpp-study/bin/sin/gcc-11/debug/main.o",
+		"/home/turchyack/project/cpp-study/fast/qsort.h",
+		"/home/turchyack/project/cpp-study/fast/qsort.cpp",
+		"/home/turchyack/project/cpp-study/4sort/main.cpp",
+		"/home/turchyack/project/cpp-study/4sort/jamfile.jam",
+		"/home/turchyack/project/cpp-study/server/main.cpp",
+		"/home/turchyack/project/cpp-study/fast/main.cpp",
+		"/home/turchyack/project/cpp-study/fast/jamfile.jam",
+		"/home/turchayck/project/cpp-study/1252542860.txt",
+		"/home/turchayck/project/cpp-study/buble/jamfile.jam",
+		"/home/turchayck/project/cpp-study/buble/main.cpp",
+		"/home/turchayck/project/cpp-study/server/main.cpp",
+		"/home/turchayck/project/cpp-study/server/jamfile.jam",
+		"/home/turchayck/project/cpp-study/client/client.cpp",
+		"/home/turchayck/project/cpp-study/client/jamfile.jam",
+		"/home/turchayck/.cache/.fr-NL7Shy/second2.pas",
+		"/home/turchayck/.cache/.fr-ZOBeVu/second1.pas",
+		"/home/turchayck/project/cpp-study/nocomm/jamfile.jam",
+		"/home/turchayck/project/cpp-study/todo",
+		"/home/turchayck/project/cpp-study/nocomm/main.cpp",
+		"/home/turchayck/project/cpp-study/nocomm/funcs.h",
+		"/home/turchayck/project/cpp-study/nocomm/funcs.cpp",
+		"/home/turchayck/project/cpp-study/nocomm/printpic.cpp",
+		"/home/turchayck/project/cpp-study/nocomm/printpic.h",
+		"/home/turchayck/project/cpp-study/nocomm/utils.cpp",
+		"/home/turchayck/project/cpp-study/mmain/jamfile.jam",
+		"/home/turchayck/project/cpp-study/nocomm2/jamfile.jam",
+		"/home/turchayck/project/cpp-study/nocomm2/main.cpp",
+		"/home/turchayck/Downloads/Ключ CoinBase.txt",
+		"/home/turchayck/project/cpp-study/mmain/main.cpp",
+		"/home/turchayck/project/cpp-study/nocomm/utils.h",
+		"/home/turchayck/project/cpp-study/project-root.jam",
+		"/usr/share/boost-build/src/options/help.jam",
+		"/home/turchayck/project/example-c/testfile1/test-file1.cpp",
+		"/home/turchayck/project/cpp-study/sum/sum.cpp",
+		"/home/turchayck/project/cpp-study/struct/main.cpp",
+		"/home/turchayck/project/cpp-study/libs/testcore/testrunner.cpp",
+		"/home/turchayck/project/cpp-study/libs/testcore/include/testcore/testrunner.h",
+		"/home/turchayck/.cache/.fr-8wDB1y/second1.pas",
+		"/home/turchayck/.cache/.fr-qtIfpw/second2.pas",
+		"/home/turchayck/.cache/.fr-y5eDDV/second1.pas",
+		"/home/turchayck/.cache/.fr-hNPDMU/second2.pas",
+		"/home/turchayck/project/cpp-study/bin/nocomm/gcc-9/debug/nocomm",
+		"/home/turchayck/project/example-c/testfile1/jamfile-main.jam",
+		"/home/turchayck/project/cpp-study/bin/config.log",
+		"/home/turchayck/project/example-c/test-file1",
+		"/home/turchayck/project/cpp-study/sum/main.cpp",
+		"/home/turchayck/project/cpp-study/arrays/utils.cpp",
+		"/home/turchayck/project/cpp-study/strings/main.cpp",
+		"/home/turchayck/project/cpp-study/sin/main.cpp",
+		"/home/turchayck/project/cpp-study/notes",
+		"/home/turchayck/project/cpp-study/struct/jamfile.jam",
+		"/home/turchayck/project/cpp-study/Study",
+		"/home/turchayck/project/cpp-study/libs/testcore/jamfile.jam",
+		"/home/turchayck/project/cpp-study/sum/jamfile.jam",
+		"/home/turchayck/project/cpp-study/sum/tests/test_simple.cpp",
+		"/home/turchayck/project/cpp-study/arrays/main.cpp",
+		"/home/turchayck/project/cpp-study/arrays/jamfile.jam",
+		"/home/turchayck/project/cpp-study/.hg/hgrc",
+		"/tmp/hg-editor-A3LLkv.commit.hg.txt",
+		"/home/turchayck/project/cpp-study/sin/jamfile.jam",
+		"/home/turchayck/.hgrc",
+		"/home/turchayck/project/cpp-study/snake/main.cpp",
+		"/home/turchayck/project/cpp-study/snake/jamfile.jam",
+		"/home/turchayck/project/cpp-study/t4/jamfile.jam",
+		"/home/turchayck/project/cpp-study/t3/jamfile.jam",
+		"/home/turchayck/project/cpp-study/HW/jamfile.jam",
+		"/home/turchayck/project/cpp-study/t0/jamfile.jam",
+		"/home/turchayck/project/cpp-study/t1/jamfile.jam",
+		"/home/turchayck/project/cpp-study/strings/jamfile.jam",
+		"/home/turchayck/project/cpp-study/cpp-study.sublime-project",
+		"/home/turchayck/project/howto",
+		"/tmp/hg-editor-Ni2bmk.commit.hg.txt",
+		"/home/turchayck/project/d2/x1/hnr",
+		"/home/turchayck/project/d2/yur",
+		"/home/turchayck/project/d2/part1",
+		"/home/turchayck/project/new",
+		"/home/turchayck/make",
+		"/home/turchayck/howto",
+		"/home/turchayck/www"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nserv",
+			"fast",
+			"\"4sort/CreateFiles/1_file.txt\"",
+			"nocomm",
+			"Сортированный",
+			"второй",
+			"сортированный",
+			"time",
+			"buble",
+			"d",
+			"include",
+			"nocomm",
+			">\n",
+			"nocomm2",
+			"Введите",
+			"car",
+			"nocomm",
+			"nocomm2",
+			"nocomm",
+			"__PRINTPIC_H_INCLUDED",
+			"__FUNCS_H_INCLUDED",
+			"circle",
+			"Structure3",
+			"nпроверка",
+			"\",",
+			"nocomm",
+			"testfile1",
+			"Error",
+			"Erro",
+			"Error",
+			"В",
+			"<dependency>jamfile.jam"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ReturnCode"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "newserv/main.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "newserv/jamfile.jam",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "cpp-study.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

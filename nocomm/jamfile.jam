@@ -1,0 +1,14 @@
+project nocomm
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe nocomm : main.cpp utils.cpp funcs.cpp printpic.cpp ;
+
+#run nocomm
+#  :
+#  :
+#  :
+#  : run-nocomm
+#  ;
+
+unit-test run-nocomm : arrays ;

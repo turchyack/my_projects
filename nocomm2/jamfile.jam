@@ -1,0 +1,14 @@
+project nocomm2
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe nocomm2 : main.cpp ;
+
+#run nocomm2
+#  :
+#  :
+#  :
+#  : run-nocomm2
+#  ;
+
+unit-test run-nocomm2 : nocomm2 ;

@@ -1,0 +1,5 @@
+project sin 
+	: requirements 
+		<dependency>jamfile.jam 
+	;
+exe sin : main.cpp utils.cpp ;

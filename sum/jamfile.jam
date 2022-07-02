@@ -1,0 +1,13 @@
+project sum
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe sum 
+	: [ glob *.cpp ] 
+	;
+
+unit-test test_simple 
+	: tests/test_simple.cpp /cpp-study/libs/testcore//testcore 
+	;
+
+

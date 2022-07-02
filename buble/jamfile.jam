@@ -1,0 +1,14 @@
+project buble
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe buble : main.cpp ;
+
+#run buble
+#  :
+#  :
+#  :
+#  : run-buble
+#  ;
+
+unit-test run-buble : buble ;

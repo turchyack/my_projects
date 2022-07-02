@@ -1,0 +1,16 @@
+project t4
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe t4 : [ glob *.cpp ] ;
+
+unit-test run-t4 : t4 ;
+
+#run t4
+#  :
+#  :
+#  :
+#  : run-t4
+#  ;
+
+

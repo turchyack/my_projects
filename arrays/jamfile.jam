@@ -1,0 +1,14 @@
+project arrays
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe arrays : main.cpp utils.cpp ;
+
+#run arrays
+#  :
+#  :
+#  :
+#  : run-arrays
+#  ;
+
+unit-test run-arrays : arrays ;

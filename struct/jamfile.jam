@@ -1,0 +1,5 @@
+project struct
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe struct : main.cpp utils.cpp ;

@@ -1,0 +1,14 @@
+project fast
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe fast : main.cpp qsort.cpp ;
+
+#run fast
+#  :
+#  :
+#  :
+#  : run-fast
+#  ;
+
+unit-test run-fast : fast ;

@@ -1,0 +1,14 @@
+project client
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe client : client.cpp ;
+
+#run client
+#  :
+#  :
+#  :
+#  : run-client
+#  ;
+
+unit-test run-client : client ;

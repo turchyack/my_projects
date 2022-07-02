@@ -1,0 +1,14 @@
+project mmain
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe mmain : main.cpp utils.cpp funcs.cpp printpic.cpp ;
+
+#run mmain
+#  :
+#  :
+#  :
+#  : run-mmain
+#  ;
+
+unit-test run-mmain : mmain ;
