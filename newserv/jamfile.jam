@@ -1,0 +1,13 @@
+project newserv
+	: requirements
+		<dependency>jamfile.jam
+	;
+exe newserv : main.cpp ;
+
+#run newserv
+#  :
+#  :
+#  :
+#  : run-newserv
+#  ;
+
